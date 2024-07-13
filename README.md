@@ -4,7 +4,7 @@
 - data and machine learning
 
 🌱 I'm currently learning ...
-- PyTorch, TensorFlow, Quantization
+- PyTorch, TensorFlow, quantization
 
 👯 I'm looking to collaborate on ...
 - synthetic data, ML optimization
