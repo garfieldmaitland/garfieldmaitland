@@ -1,20 +1,13 @@
-🔭 I’m currently working on ...
-data and machine learning
+🔭 Data Scientist Intern @ AT&T | 🏆 3x Databricks Certified | Passionate about Machine Learning
 
-🌱 I’m currently learning ...
-pytorch and tensorflow
+🌱 Expanding my skills in PyTorch, TensorFlow, and quantization techniques.
 
-👯 I’m looking to collaborate on ...
-quantization
+👯 Eager to collaborate on projects involving synthetic data or ML model optimization.
 
-🤔 I’m looking for help ...
-on the efficacies of synthetic data
+🤔 Seeking insights on the latest advancements in synthetic data generation and evaluation.
 
-💬 Ask me about ...
-data science and data governance
+💬 Ask me about data science and/or data governance.
 
-📫 How to reach me:
-garfieldivymaitland@gmail.com
+📫 Reach me at garfieldivymaitland@gmail.com
 
-😄 Pronouns:
-I'm/ Him
+😄 Pronouns: I'm/Him
