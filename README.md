@@ -1,13 +1,22 @@
-🔭 Data Scientist Intern @ AT&T | 🏆 3x Databricks Certified | Passionate about Machine Learning
+#### Hi there 👋
 
-🌱 Expanding my skills in PyTorch, TensorFlow, and quantization techniques.
+🔭 I'm currently working on ...
+- data and machine learning
 
-👯 Eager to collaborate on projects involving synthetic data or ML model optimization.
+🌱 I'm currently learning ...
+- PyTorch, TensorFlow, Quantization
 
-🤔 Seeking insights on the latest advancements in synthetic data generation and evaluation.
+👯 I'm looking to collaborate on ...
+- synthetic data, ML optimization
 
-💬 Ask me about data science and/or data governance.
+🤔 I'm looking for help on ...
+- exploring the breadth and dept of synthetic data
 
-📫 Reach me at garfieldivymaitland@gmail.com
+💬 Ask me about ... 
+- data science and data governance
 
-😄 Pronouns: I'm/Him
+📫 How to reach me ...
+- garfieldivymaitland@gmail.com
+
+👨‍💻 Pronouns:
+- I'm/Him
